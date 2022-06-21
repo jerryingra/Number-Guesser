@@ -1,4 +1,4 @@
-# Codecademy Pro Challenge Project: Number Guesser
+# Codecademy Pro Challenge Project: Credit Card Checker
 ## Table of Contents
 - Project Goals
 - Credits
